@@ -1,0 +1,4 @@
+#Useful in the case if you're troubleshooting and you think hardware is drawing too much power beyond what PSU can provide
+
+sudo nvidia-smi -pl N 
+#where N is the power limit in Watts
