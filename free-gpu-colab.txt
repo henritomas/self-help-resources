@@ -1,0 +1,13 @@
+#Apparently you can use Colab for 12 hours straight before needing to reconnect
+#Colab provides
+
+Tesla K80
+12 GB RAM
+350 GB SSD storage
+
+#To navigate Colab directories use the '!' and '%' prefixes
+# '!' if not concerning directories (pip install, git clone)
+# '%' if concerning directories (rm, cd, mkdir,)
+
+#use the following as a guide/example:
+https://colab.research.google.com/drive/1geWxtBfW0msIQvTmnrRS7p-fHLAQTKc7?authuser=1#scrollTo=TwnYHDLq4XPa
