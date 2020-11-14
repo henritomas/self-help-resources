@@ -1,0 +1,5 @@
+In building Unreal Engine 4.16 from source, you may encounter the following problem:
+https://answers.unrealengine.com/questions/600362/error-building-416-branch-from-source.html
+
+Where UE4Editor-OculusRift.lib cannot be produced due to a bug in D3D12StateCachePrivate.h 
+Simply follow the solution in the given website and the build should be succesful.
